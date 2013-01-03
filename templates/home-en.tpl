@@ -37,14 +37,14 @@
 
 		<div id="topBanner">
 			<img src="{$root_uri}images/content/srobo_website_robot.png" alt="Image of Robot" />
-	
+
 			<h1>Welcome to Student Robotics</h1>
-	
-			<p>Student Robotics is an exciting competition, held at 
-			the University of Southampton, between teams of students from sixth 
-			form schools and colleges, to build fully autonomous robots. Led by 
-			a group of students from the University of Southampton, participating 
-			teams will have to design, build and test their robots, ready to compete 
+
+			<p>Student Robotics is an exciting competition, held at
+			the University of Southampton, between teams of students from sixth
+			form schools and colleges, to build fully autonomous robots. Led by
+			a group of students from the University of Southampton, participating
+			teams will have to design, build and test their robots, ready to compete
 			against other teams.</p>
 		</div>
 
@@ -85,7 +85,11 @@
 						</ul>
 						<div id="date_soton">
 							<a href="{$root_uri}schools/tech_days">Tech Days</a>:
-							<p><i>To be announced.</i></p>
+							<ul>
+								<li><a href="{$root_uri}events/sr2013/2012-12-01-soton_tech_day_1">1<sup>st</sup> December</a></li>
+								<li>9<sup>th</sup> February (<em>provisional</em>)</li>
+								<li>16<sup>th</sup> March (<em>provisional</em>)</li>
+							</ul>
 						</div>
 						<div id="date_bristol">
 							<a href="{$root_uri}schools/tech_days">Tech Days:</a>
@@ -99,11 +103,10 @@
 					<div>
 						<a href="{$root_uri}schools/kickstart">Kickstart:</a>
 						<ul>
-							<li>3<sup>rd</sup> November</li>
+							<li><a href="{$root_uri}events/sr2013/2012-11-03-kickstart">3<sup>rd</sup> November</a></li>
 						</ul>
 
 						<a href="{$root_uri}schools/competition">Competition:</a>
-						<br/><em>Preliminary dates</em><br/>
 						<ul>
 							<li>13<sup>th</sup> &amp; 14<sup>th</sup> April</li>
 						</ul>
